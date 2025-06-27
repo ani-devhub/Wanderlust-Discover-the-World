@@ -19,7 +19,7 @@ function Header({ onNavigate, activeSection }) {
         { name: 'Packages', id: 'packages' },
         { name: 'About Us', id: 'about' },
         { name: 'Contact', id: 'contact' },
-        { name: 'Careers', id: 'careers' },
+        // { name: 'Careers', id: 'careers' },
     ];
 
     return (

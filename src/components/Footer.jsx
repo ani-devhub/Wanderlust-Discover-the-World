@@ -18,7 +18,7 @@ function Footer({ onNavigate }) {
             title: 'Company',
             links: [
                 { name: 'Our Story', id: 'about' },
-                { name: 'Careers', id: 'careers' },
+                // { name: 'Careers', id: 'careers' },
                 { name: 'Contact Us', id: 'contact' },
                 { name: 'Blog', id: null },
             ],
